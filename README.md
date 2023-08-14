@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiago Pagoto E.</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thiagovix&show_icons=true&theme=radical" alt="csharp" width="49%" height="195px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagovix&layout=compact&theme=radical" alt="csharp" width="50%" height="195px"/>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=thiagovix&show_icons=true&theme=radical" alt="html" width="50%" height="195px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovix&layout=compact&theme=radical" alt="html" width="50%" height="195px"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
