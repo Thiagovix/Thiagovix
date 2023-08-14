@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thiagovix&show_icons=true&theme=radical" alt="html" width="50%" height="195px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovix&layout=compact&theme=radical" alt="html" width="50%" height="195px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thiagovix&show_icons=true&theme=radical" alt="chsarp" width="50%" height="195px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovix&layout=compact&theme=radical" alt="csharp" width="50%" height="195px"/>
 
 
 <h3 align="left">Connect with me:</h3>
